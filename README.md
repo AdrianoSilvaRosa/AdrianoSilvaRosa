@@ -1,7 +1,7 @@
 - 👋 Olá, Eu sou @AdrianoSilvaRosa
 - 👀 Estou interessado em programação e estudar sempre novas tecnologias.
 - 🌱 Estou aprendento atualmente .net Core 6 
-- 💞️ Estou atualmente procurando colaborar em c# .net framework, javascript, html, css
+- 💞️ Estou atualmente procurando colaborar em c# .net CORE, javascript, html, css
 
 
 <!---
