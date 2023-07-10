@@ -3,7 +3,7 @@
 - 🌱 Estou aprendento atualmente .net 7
 - 💞️ Estou atualmente procurando colaborar em c# .net core, javascript, html, css. .net maui, firebird, oracle, sqlserver , api rest
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
 
 <!---
 AdrianoSilvaRosa/AdrianoSilvaRosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
