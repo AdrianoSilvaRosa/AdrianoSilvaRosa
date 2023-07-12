@@ -24,9 +24,6 @@ Dominio em:
                               <th>
                                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" />
                               </th>
-                              <th>
-                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />   
-                              </th>
                     </tr>
           </tbody>
 </table>
