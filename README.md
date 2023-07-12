@@ -25,6 +25,45 @@ Dominio em:
                                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" />
                               </th>
                     </tr>
+                    <tr>
+                              <th>                                    
+                                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50"/>
+                              </th>
+                               <th>
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
+                              </th>
+                              <th>
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" height="50"/>
+                              </th>
+                              <th>                                   
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"/>      
+                         </th>
+                    </tr>
+          </tbody>
+</table>
+<br/><br/>
+Em Aprendizagem:
+<table>
+          <tbody>
+                    <tr>
+                              <th>
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+                              </th>
+                              <th>    
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="50" height="50"/>
+                              </th>
+                              <th>                                        
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>                                 </th>
+                              <th>                                    
+                                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
+                              </th>
+                              <th>                                        
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="50"                                                   height="50" />
+                              </th>
+                              <th>                                        
+                                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"                                                   width="50" height="50" />          
+                              </th>
+                    </tr>
           </tbody>
 </table>
 
