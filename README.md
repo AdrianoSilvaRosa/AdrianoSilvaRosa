@@ -3,8 +3,7 @@
 - 🌱 Estou aprendento atualmente .net 7, .net maui,
 - 💞️ Estou atualmente procurando colaborar em c# .net core, javascript, html, css. .net maui, firebird, oracle, sqlserver , api rest
 - 💡 Buscando sempre soluções fáceis e amigáveis para o usuário
-- 📱 Desenvolvo Softwares sob demanda
-- 📤 Possuo Softwares de Expedição , Vendas, HelpDesk, NFe
+
 
 Dominio em:
 <br/><br/>
