@@ -1,7 +1,7 @@
 - 👋 Olá, Eu sou @AdrianoSilvaRosa sócio prorietário da @dioltech
 - 👀 Estou interessado em programação e estudar sempre novas tecnologias.
-- 🌱 Estou aprendento atualmente .net 7, .net maui,
-- 💞️ Estou atualmente procurando colaborar em c# .net core, javascript, html, css. .net maui, firebird, oracle, sqlserver , api rest
+- 🌱 Estou aprendento atualmente .net 10, .net blazor,
+- 💞️ Estou atualmente procurando colaborar em c# .net core, javascript, html, css. .net maui, firebird, oracle, sqlserver , api rest, angular 
 - 💡 Buscando sempre soluções fáceis e amigáveis para o usuário
 
 
