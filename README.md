@@ -1,101 +1,106 @@
-- 👋 Olá, Eu sou @AdrianoSilvaRosa sócio prorietário da @dioltech
-- 👀 Estou interessado em programação e estudar sempre novas tecnologias.
-- 🌱 Estou aprendento atualmente .net 10, .net blazor,
-- 💞️ Estou atualmente procurando colaborar em c# .net core, javascript, html, css. .net maui, firebird, oracle, sqlserver , api rest, angular 
-- 💡 Buscando sempre soluções fáceis e amigáveis para o usuário
+# 👋 Olá, eu sou o Adriano / Hi, I'm Adriano
 
+🇧🇷  Sou sócio proprietário da **DIOLTECH**, desenvolvedor full-stack e apaixonado por tecnologia.  
+🇺🇸  I'm co-owner at **DIOLTECH**, full-stack developer and tech enthusiast.  
 
-Dominio em:
-<br/><br/>
+---
+
+## 🔥 Principais interesses / Main interests
+
+- Desenvolvimento Web
+- Cloud
+- Arquitetura
+- Integrações
+- Criação de soluções amigáveis ao usuário
+
+---
+
+## 🌱 Atualmente estudando / Currently learning
+
+- .NET 10  
+- .NET Blazor  
+
+---
+
+## 💼 Quero colaborar em / Open to collaborate on
+
+- C# .NET
+- .NET MAUI
+- Firebird
+- Oracle
+- SQL Server
+- API Rest
+- Angular
+- Javascript
+- HTML / CSS
+
+---
+
+# 🧠 Tecnologias / Skills
+
 <table>
-          <tbody>
-                    <tr>
-                              <th>
-                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" />   
-                              </th>
-                              <th>
-                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width="50" height="50" />
-                               </th>
-                              <th>
-                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain-wordmark.svg" width="50" height="50" />
-                               </th>
-                              <th>
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="50" height="50" />     
-                              </th>
-                              <th>
-                                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" /> 
-                              </th>
-                              <th>
-                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" />   
-                              </th>
-                              <th>
-                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" />
-                              </th>
-                              <th>
-                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" />
-                              </th>
-                               <th>                                        
-                                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original-wordmark.svg" />
-                              </th>
-                              <th>
-                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" width="50" height="50" />
-                              </th>
-                    </tr>
-                    <tr>
-                              <th>                                    
-                                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50"/>
-                              </th>
-                               <th>
-                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
-                              </th>
-                              <th>
-                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" height="50"/>
-                              </th>
-                              <th>                                   
-                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"/>      
-                         </th>
-                    </tr>
-          </tbody>
-</table>
-<br/><br/>
-Em Aprendizagem:
-<table>
-          <tbody>
-                    <tr>
-                              <th>
-                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-                              </th>
-                              <th>    
-                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="50" height="50"/>
-                              </th>
-                              <th>                                        
-                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>                                 
-                              </th>
-                              <th>                                    
-                                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
-                              </th>
-                              <th>                                        
-                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="50"  height="50" />
-                              </th>
-                              <th>                                        
-                                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width="50" height="50" />          
-                              </th>
-                              <th>                                        
-                                                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original-wordmark.svg"  width="50" height="50" />      
-                              </th>
-
-                              
-
-          
-                    </tr>
-          </tbody>
+  <tbody>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="50"/></td>
+    </tr>
+  </tbody>
 </table>
 
+---
 
-<br/><br/>
+# 📚 Em aprendizado / Learning
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="50" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" /></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AdrianoSilvaRosa&show_icons=true&theme=radical" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoSilvaRosa&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AdrianoSilvaRosa&theme=radical&column=4" />
+</p>
+
+---
+
+# 🔗 Contato / Contact
+
+🇧🇷 Fale comigo  
+🇺🇸 Contact me  
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
-<a href = "mailto:dioltech.tp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!---
-AdrianoSilvaRosa/AdrianoSilvaRosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="mailto:dioltech.tp@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+
+![](https://komarev.com/ghpvc/?username=AdrianoSilvaRosa&color=blue)
+
