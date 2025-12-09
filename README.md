@@ -18,7 +18,8 @@
 ## 🌱 Atualmente estudando / Currently learning
 
 - .NET 10  
-- .NET Blazor  
+- .NET Blazor
+- IA
 
 ---
 
