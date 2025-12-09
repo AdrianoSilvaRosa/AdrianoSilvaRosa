@@ -14,6 +14,12 @@ Dominio em:
                                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" />   
                               </th>
                               <th>
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width="50" height="50" />
+                               </th>
+                              <th>
+                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain-wordmark.svg" width="50" height="50" />
+                               </th>
+                              <th>
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="50" height="50" />     
                               </th>
                               <th>
