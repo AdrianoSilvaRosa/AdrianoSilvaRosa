@@ -50,6 +50,7 @@
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50"/></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="50"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="50"/></td>
     </tr>
   </tbody>
 </table>
@@ -70,25 +71,6 @@
     </tr>
   </tbody>
 </table>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AdrianoSilvaRosa&show_icons=true&theme=radical" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoSilvaRosa&layout=compact&theme=radical" height="170"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AdrianoSilvaRosa&theme=radical&column=4" />
-</p>
-
----
 
 # 🔗 Contato / Contact
 
